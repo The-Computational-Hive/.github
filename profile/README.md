@@ -1,12 +1,9 @@
-## Hi there 👋
+## The Computational Hive
 
-<!--
+The Computational Hive is a consultancy and development initiative focused on computational design, automation, and digital workflows for the built environment.
 
-**Here are some ideas to get you started:**
+We work at the intersection of design and technology—developing tools, systems, and methods that enable more efficient, informed, and creative processes in architecture, engineering, and fabrication.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Alongside client-focused work, The Computational Hive actively develops and maintains open-source tools with the goal of making advanced computational methods more accessible, adaptable, and transparent.
+
+Our approach is pragmatic: build what is needed, keep it flexible, and share knowledge whenever possible.
